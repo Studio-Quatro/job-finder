@@ -1,5 +1,7 @@
 # 2. First approach
 
+[Back to home](../README.md) | [3 - Case diagrams](.)
+
 ## Tech stack
 
 ![Tech stack](meeting_memories/figures/stack.png)

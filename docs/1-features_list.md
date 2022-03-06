@@ -1,6 +1,8 @@
 # 1. Features list
 
-According to first meeting between David and client, we built these preliminar analysis.
+[Back to home](../README.md) | [2 - First approach](2-first_approach.md)
+
+According to [first meeting between David and client](meeting_memories/01.md), we built these preliminar analysis.
 
 Two main profiles are CANDIDATES and EMPLOYEERS/RECRUITERS.
 
@@ -23,7 +25,7 @@ Employeers should be able to:
 - Create and modify companies profile (if demonstrates belonging to a company trough email verification or documentation).
 - Create a "provisional"company if does not exists.
 - Post new jobs (with skills, education, experience requirements and salary range).
-- Find candidates ("only basic profile information is displayed and employers must pay before they can download CV and see personal information"). If employeers can see name and lastname, they could find people in social networks and contacts them outside of the platform. 
+- Find candidates ("only basic profile information is displayed and employers must pay before they can download CV and see personal information"). If employeers can see name and lastname, they could find people in social networks and contacts them outside of the platform.
 - Create "hiring proccesses".
 - Set state of candidate hiring proccess.
 - See a job board to track all candidates proccesses.
