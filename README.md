@@ -1,5 +1,7 @@
 # Potencial project for StudioQuatro
 
+![Studio Quatro](docs/figures/studioquatro.png)
+
 1. [Features list](docs/1-features_list.md)
 2. [First estimations](docs/2-first_approach.md)
 3. Case diagrams

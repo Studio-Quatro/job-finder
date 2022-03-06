@@ -36,3 +36,9 @@ Platform should:
 - Use AI to match candidates and jobs.
 - Offer gamification features (dashboards, leaderboards, points, etc.).
 - Be prepared to i18n.
+
+*Company profile*: Who are we, Values and Culture.  Also show company logo and photo
+We could have a COMPANY ADMIN profile and this person can give access to post and edit jobs to other people. In this way, we can accept "recruiters" that manage more than one company.
+
+*Hiring proccess* (applications model): Some steps like QUESTIONS, MEETINGS (HR, technical, etc), CHALLENGE, FINAL MEETING. Employeers can set every step posting a link and a description and set the progress of candidate.
+Also, employeers can add private information in each step (only visible to employeers).
