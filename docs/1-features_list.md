@@ -23,9 +23,9 @@ Candidates should be able to:
 Employeers should be able to:
 
 - Create and modify companies profile (if demonstrates belonging to a company trough email verification or documentation).
-- Create a "provisional"company if does not exists.
+- Create a "provisional" company if does not exist.
 - Post new jobs (with skills, education, experience requirements and salary range).
-- Find candidates ("only basic profile information is displayed and employers must pay before they can download CV and see personal information"). If employeers can see name and lastname, they could find people in social networks and contacts them outside of the platform.
+- Find candidates ("only basic profile information is displayed and employers must pay before they can download CV and see personal information"). If employeers can see name and last name, they could find people in social networks and contacts them outside of the platform.
 - Create "hiring proccesses".
 - Set state of candidate hiring proccess.
 - See a job board to track all candidates proccesses.
