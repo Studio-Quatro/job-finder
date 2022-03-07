@@ -1,4 +1,4 @@
-# Project Proposal | Studio Quatro
+# Project Proposal - Philbert Chin | Studio Quatro
 
 ![Studio Quatro](docs/figures/studioquatro.png)
 
