@@ -1,4 +1,4 @@
-# Potencial project for StudioQuatro
+# Project Proposal | Studio Quatro
 
 ![Studio Quatro](docs/figures/studioquatro.png)
 
