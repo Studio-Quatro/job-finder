@@ -10,11 +10,11 @@ Usually, we develop in six weeks cicles and, then, we take two weeks to analyze 
 
 For us, is fundamental have a MVP (minimum viable product) delivered even from the first development cycle. For you, that means a first version of your product totally functional with his fundamental features ready to use (IN SIX WEEKS).
 
-Working in this way, after each delivery, we have two weeks to analyze the product with you and your users and planning posible pivots. In our experience, it's very frecuent that users don't use some very complex features and, in the other hand, are loving other thing that we considered a "secondary thing". Fortunately, we don't need wait a year or six months to take other path or maybe give more protagonism to that secondary thing that was awesome for your users.
+Working in this way, after each delivery, we have two weeks to analyze the product with you and your users and planning posible pivots. In our experience, it's very frecuent that users don't use some very complex features and, in the other hand, are loving other thing that we considered a "secondary thing" at first. Fortunately, we don't need wait a year or six months to take other path or maybe give more protagonism to that secondary thing that was awesome for your users. *We could do that in the next six weeks development cicle*.
 
 ## Tech stack
 
-For this specific problem, we propose to use the following technology stack.
+For this specific problem, we propose to use the following technology stack. It ensures scaling posibilities and fast developments cycles. Plus, we love using modern and super powerful technologies.
 
 ![Tech stack](figures/stack.png)
 
@@ -26,13 +26,7 @@ This is a simplified version of full class diagram. Methods, attributes and enca
 
 ### Relations
 
-- A company has many jobs.
-- A job belongs to a company.
-- A job has many candidates (trough applications).
-- Each application has one hiring process (and employeer could set that from templates).
-- An employeer has many companies.
-- Every candidate has a *path* (built from skills, experience, education and certifications).
-- Every job has *requirements* (built from skills, experience, education and certifications).
+[Click here](2-1-relations.md)
 
 ## Preliminar views
 
@@ -51,25 +45,23 @@ We suggest a team composed by:
 
 ## Time estimation for deploy a MVP
 
-- First six weeks cicle: BASIC and functional MVP
-- Two weeks cool down: Internal meetings to review the product.
+This preliminary estimations could vary a lot after we hold the first meeting with technical team, but give an idea of time, complexity and budget.
 
+- First six weeks cicle: BASIC and functional MVP.
+- Two weeks cool down.
 - Second six weeks cicle: COMPLETE MVP, fix bugs.
-- Two weeks cool down:
-
-- Third six weeks cicle: Adding features
-- Two weeks cool down: Review next steps (scalability and new features)...
+- Two weeks cool down.
+- Third six weeks cicle: Adding features (like IA, login with social media and other requirements arisen in cool down cicles).
+- Two weeks cool down: Review next steps (scalability, new features, general balance).
 
 *Total duration:* 24 weeks (6 months) with a total functional first product since second month.
 
-- Development: 2100 hours. U$ 52500
-
-- Other:
+- *Our work*: 2100 hours of team work. This have an approximate cost of US$ 52500.
+- *Other expenses not contemplated*:
   - Legal (privacy, terms and conditions contracts).
-  - ElasticSearch license.
+  - Third-party licences (ElasticSearch and New Relic).
   - Domains, SSL.
   - Server infraestructure leasing (API, databases, web frontend, notifications).
-  - Manual QA/QC engineer (contractor).
 
 [//]: # (TASKS)
 [//]: # (Review entire logic. BE+FE - 20)
