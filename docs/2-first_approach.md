@@ -2,7 +2,19 @@
 
 [Back to home](../README.md) | [3 - Case diagrams](.)
 
+## Our metodology
+
+We develop software solutions with agile metodology. First, we need to define scope and requirements of the project and then we can proceed to development planning.
+
+Usually, we develop in six weeks cicles and, then, we take two weeks to analyze the job done and refine the next development cycle.
+
+For us, is fundamental have a MVP (minimum viable product) delivered even from the first development cycle. For you, that means a first version of your product totally functional with his fundamental features ready to use (IN SIX WEEKS).
+
+Working in this way, after each delivery, we have two weeks to analyze the product with you and your users and planning posible pivots. In our experience, it's very frecuent that users don't use some very complex features and, in the other hand, are loving other thing that we considered a "secondary thing". Fortunately, we don't need wait a year or six months to take other path or maybe give more protagonism to that secondary thing that was awesome for your users.
+
 ## Tech stack
+
+For this specific problem, we propose to use the following technology stack.
 
 ![Tech stack](figures/stack.png)
 
@@ -30,11 +42,12 @@ A first fast estimation is that is necessary build a CRUD for 12 resources. So, 
 
 We suggest a team composed by:
 
-- Project manager.
+- [Project manager (part-time)](https://www.linkedin.com/in/david-cejas/).
 - UI designer.
 - SRE specialist.
-- Sr. Frontend Developer.
-- Sr. Backend Developer.
+- [Sr. Frontend Developer](https://www.linkedin.com/in/ignacio-agust%C3%ADn-grassini-75113b150/).
+- [Sr. Backend Developer](https://www.linkedin.com/in/juanmamaffei/).
+- [Sr. QA/QC Engineer (part-time)](https://www.linkedin.com/in/valeriagrassini).
 
 ## Time estimation for deploy a MVP
 
@@ -45,7 +58,7 @@ We suggest a team composed by:
 - Two weeks cool down:
 
 - Third six weeks cicle: Adding features
-- Two weeks cool down: Review next steps...
+- Two weeks cool down: Review next steps (scalability and new features)...
 
 *Total duration:* 24 weeks (6 months) with a total functional first product since second month.
 
