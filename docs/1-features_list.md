@@ -2,7 +2,7 @@
 
 [Back to home](../README.md) | [2 - First approach](2-first_approach.md)
 
-According to [first meeting between David and client](meeting_memories/01.md), we built these preliminar analysis.
+According to [first meeting between David and Philbert](meeting_memories/01.md), we built these preliminar analysis.
 
 Two main profiles are CANDIDATES and EMPLOYEERS/RECRUITERS.
 
