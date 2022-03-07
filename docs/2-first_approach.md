@@ -6,15 +6,15 @@
 
 We develop software solutions with agile metodology. First, we need to define scope and requirements of the project and then we can proceed to development planning.
 
-Usually, we develop in six weeks cicles and, then, we take two weeks to analyze the job done and refine the next development cycle.
+Usually, we develop in six weeks cicles and then we take two weeks to analyse the job done and define the next development cycle.
 
-For us, is fundamental have a MVP (minimum viable product) delivered even from the first development cycle. For you, that means a first version of your product totally functional with his fundamental features ready to use (IN SIX WEEKS).
+For us, is essential to have a MVP (minimum viable product) delivered even from the first development cycle. For you, that means a first version of your product totally functional with the basic features ready to use (IN SIX WEEKS).
 
-Working in this way, after each delivery, we have two weeks to analyze the product with you and your users and planning posible pivots. In our experience, it's very frecuent that users don't use some very complex features and, in the other hand, are loving other thing that we considered a "secondary thing" at first. Fortunately, we don't need wait a year or six months to take other path or maybe give more protagonism to that secondary thing that was awesome for your users. *We could do that in the next six weeks development cicle*.
+Working in this way, after each delivery, we have two weeks to analyse the product with you and your users and planning potential improvements. In our experience, it's very frequent that users don't use some very complex features and prefer to use other things that we considered a "secondary" at first look. Fortunately, we don't need wait a year or six months to take other path or maybe give more value to those "secondary things" that are awesome for your users. *We could do that in the next six weeks development cicle*.
 
 ## Tech stack
 
-For this specific problem, we propose to use the following technology stack. It ensures scaling posibilities and fast developments cycles. Plus, we love using modern and super powerful technologies.
+We propose to use the following technology stack. It ensures scaling posibilities and fast developments cycles. Plus, we love using modern and super powerful technologies.
 
 ![Tech stack](figures/stack.png)
 
@@ -30,7 +30,7 @@ This is a simplified version of full class diagram. Methods, attributes and enca
 
 ## Preliminar views
 
-A first fast estimation is that is necessary build a CRUD for 12 resources. So, we need, at least, 48 views.
+A first fast estimation is that is necessary build a CRUD for 12 resources. So, we need at least 48 views.
 
 ## Team
 
@@ -45,7 +45,7 @@ We suggest a team composed by:
 
 ## Time estimation for deploy a MVP
 
-This preliminary estimations could vary a lot after we hold the first meeting with technical team, but give an idea of time, complexity and budget.
+Rough estimations of time, complexity and budget.
 
 - First six weeks cicle: BASIC and functional MVP.
 - Two weeks cool down.
